@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.factory.abst.o2;
+package com.sung.head.first.design.patterns.factory.abst.o3;
 
 import com.sung.head.first.design.patterns.factory.abst.o3.Apple;
 import com.sung.head.first.design.patterns.factory.abst.o3.Banana;

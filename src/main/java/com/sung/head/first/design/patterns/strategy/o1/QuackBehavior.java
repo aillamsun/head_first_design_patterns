@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.strategy;
+package com.sung.head.first.design.patterns.strategy.o1;
 
 /**
  * 所有叫声鸭子必须实现的接口  封装鸭子叫声的行为

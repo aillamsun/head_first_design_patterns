@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.strategy;
+package com.sung.head.first.design.patterns.strategy.o1;
 
 /**
  * Created by sungang on 2016/12/25.

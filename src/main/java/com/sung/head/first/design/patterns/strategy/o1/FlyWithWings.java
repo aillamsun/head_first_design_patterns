@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.strategy;
+package com.sung.head.first.design.patterns.strategy.o1;
 
 /**
  * 这个是飞行行为的实现，给所有会飞行的鸭子使用

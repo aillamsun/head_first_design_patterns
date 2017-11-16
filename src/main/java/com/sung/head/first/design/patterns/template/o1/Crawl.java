@@ -3,7 +3,7 @@ package com.sung.head.first.design.patterns.template.o1;
 /**
  * Created by sungang on 2017/11/16.
  */
-public abstract class Template {
+public abstract class Crawl {
 
     /**
      * 开始
@@ -24,7 +24,7 @@ public abstract class Template {
     /**
      * 模版方法(不会变) 规定行为  子类实现行为
      */
-    void template(){
+    void startTask(){
         start();
         run();
         start();

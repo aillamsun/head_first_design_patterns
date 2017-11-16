@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.builder;
+package com.sung.head.first.design.patterns.builder.o1;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;

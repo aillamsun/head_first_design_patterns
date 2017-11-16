@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.builder;
+package com.sung.head.first.design.patterns.builder.o1;
 
 /**
  * 指挥者类ActorController定义了construct()方法，
@@ -11,7 +11,6 @@ public class ActorController {
     //逐步构建复杂产品对象
     public Actor construct(ActorBuilder builder) {
 
-        Actor actor;
         builder.buildType();
         builder.buildSex();
         builder.buildFace();
@@ -21,7 +20,7 @@ public class ActorController {
         if (!builder.isBareheaded()){
             builder.buildHairstyle();
         }
-        actor = builder.createActor();
+        Actor actor = builder.createActor();
 
         return actor;
     }

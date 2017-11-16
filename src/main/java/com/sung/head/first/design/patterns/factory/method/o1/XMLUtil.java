@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.factory.method;
+package com.sung.head.first.design.patterns.factory.method.o1;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;

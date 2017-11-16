@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.factory.method;
+package com.sung.head.first.design.patterns.factory.method.o1;
 
 /**
  * Created by sungang on 2017/11/6.
@@ -6,10 +6,8 @@ package com.sung.head.first.design.patterns.factory.method;
 public class ClientMain {
 
     public static void main(String[] args) {
-        TV tv;
-        TVFactory factory;
-        factory = (TVFactory) XMLUtil.getBean();
-        tv = factory.productTV();
+        TVFactory factory = (TVFactory) XMLUtil.getBean();
+        TV tv = factory.productTV();
         tv.play();
     }
 }

@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.factory.abst;
+package com.sung.head.first.design.patterns.factory.abst.o1;
 
 /**
  * Summer皮肤工厂：具体工厂

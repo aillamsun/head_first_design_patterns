@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <config>
-    <className>com.sung.head.first.design.patterns.factory.abst.SpringSkinFactory</className>
+    <className>com.sung.head.first.design.patterns.factory.abst.o1.SpringSkinFactory</className>
 </config>

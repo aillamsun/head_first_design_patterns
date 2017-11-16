@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.factory.abst;
+package com.sung.head.first.design.patterns.factory.abst.o1;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;

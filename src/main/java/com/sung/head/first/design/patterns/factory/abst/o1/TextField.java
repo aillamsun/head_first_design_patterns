@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.factory.abst;
+package com.sung.head.first.design.patterns.factory.abst.o1;
 
 /**
  * 文本框接口：抽象产品

@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.factory.method.o2;
+package com.sung.head.first.design.patterns.factory.method.o1;
 
 import java.util.Optional;
 

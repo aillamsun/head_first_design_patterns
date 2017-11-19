@@ -3,9 +3,9 @@ package com.sung.head.first.design.patterns.chainofresponsibility.o1.xiugai;
 /**
  * Created by sungang on 2017/11/19.
  */
-public class Fatcher extends Handler {
+public class Father extends Handler {
 
-    public Fatcher() {
+    public Father() {
         super(Handler.FATHER_LEVEL_REQUEST);
     }
 

@@ -1,4 +1,4 @@
-package com.sung.head.first.design.patterns.chainofresponsibility.o1;
+package com.sung.head.first.design.patterns.chainofresponsibility.o1.xiugai;
 
 /**
  *

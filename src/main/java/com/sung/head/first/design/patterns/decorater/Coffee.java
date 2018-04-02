@@ -1,4 +1,4 @@
-package gz.kd.Decorater;
+package com.sung.head.first.design.patterns.decorater;
 
 //具体构件类，也就是要被装饰的类
 public class Coffee implements Drink{

@@ -1,4 +1,4 @@
-package gz.kd.Decorater;
+package com.sung.head.first.design.patterns.decorater;
 
 //Decorator抽象装饰类
 public class drinkDecorator implements Drink{

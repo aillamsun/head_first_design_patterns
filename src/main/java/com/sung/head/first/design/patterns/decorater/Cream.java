@@ -1,4 +1,4 @@
-package gz.kd.Decorater;
+package com.sung.head.first.design.patterns.decorater;
 
 //ConcreteDecorator（具体装饰类）装饰品，其实本身也是一个drink
 public class Cream extends drinkDecorator{

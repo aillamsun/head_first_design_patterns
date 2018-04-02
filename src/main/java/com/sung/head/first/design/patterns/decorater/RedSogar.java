@@ -1,4 +1,4 @@
-package gz.kd.Decorater;
+package com.sung.head.first.design.patterns.decorater;
 
 public class RedSogar extends drinkDecorator{
 
